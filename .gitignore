@@ -1,0 +1,7 @@
+legal_text_summarization/*.json
+legal_text_summarization/*.bin
+tokenizer/
+"LEGAL FLASK APP"/legal_text_summarization/*.json
+"LEGAL FLASK APP"/legal_text_summarization/*.bin
+"LEGAL FLASK APP"/tokenizer/
+```
